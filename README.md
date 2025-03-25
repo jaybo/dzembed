@@ -1,2 +1,2 @@
-# jaybo.github.io
+# dzembed
 Tests embedding in DeepZoom
